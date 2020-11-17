@@ -1,2 +1,3 @@
 # final-js599
  
+I would like to create, from scratch, either a real time browser game that I can interact with between two machines, or p2p game that is interacting through a console window. I want to create this from scratch as I feel like in the past I have been able to get by on some assignments not fully understanding all the networking since it was a matter of adapting code that was already there. Specifically, I want to learn more about the methods that keep games synchronized. I am not sure what the game will be yet, but it will be something simple. An optimistic milestone might be to add a central server that allows 3+ people to play the game at the same time.
